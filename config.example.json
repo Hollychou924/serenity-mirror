@@ -1,0 +1,69 @@
+{
+  "screen_name": "aleabitoreddit",
+  "auth_token": "<YOUR_X_AUTH_TOKEN>",
+  "ct0": "<YOUR_X_CT0>",
+  "feishu_app_id": "<YOUR_FEISHU_APP_ID>",
+  "feishu_app_secret": "<YOUR_FEISHU_APP_SECRET>",
+  "feishu_open_id": "<YOUR_FEISHU_OPEN_ID>",
+  "screen_names": [
+    "aleabitoreddit",
+    "zephyr_z9",
+    "dylan522p",
+    "KawzInvests",
+    "degentradinglsd",
+    "leopoldasch",
+    "Beth_Kindig",
+    "SemiAnalysis_",
+    "RihardJarc"
+  ],
+  "display_names": {
+    "aleabitoreddit": "Serenity（瑟蕾妮）",
+    "zephyr_z9": "Zephyr（泽费尔）",
+    "dylan522p": "Dylan Patel（迪伦·帕特尔）",
+    "KawzInvests": "Kawz（卡兹）",
+    "degentradinglsd": "degentrading（狂赌客）",
+    "leopoldasch": "Leopold（利奥波德）",
+    "Beth_Kindig": "Beth Kindig（贝丝·金迪格）",
+    "SemiAnalysis_": "SemiAnalysis（半导体分析）",
+    "RihardJarc": "Rihard Jarc（里哈德·雅尔茨）"
+  },
+  "translate": {
+    "enabled": true,
+    "provider": "doubao",
+    "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "api_key": "<YOUR_DOUBAO_API_KEY>",
+    "model": "doubao-seed-2-0-pro-260215"
+  },
+  "avatars": {
+    "aleabitoreddit": "https://pbs.twimg.com/profile_images/1996176688414367744/LXfA_lIx_normal.jpg",
+    "zephyr_z9": "https://pbs.twimg.com/profile_images/1837802996723597312/Jk4w7gjp_normal.jpg",
+    "dylan522p": "https://pbs.twimg.com/profile_images/1903585505046093824/PTqeS09L_normal.jpg",
+    "KawzInvests": "https://pbs.twimg.com/profile_images/1933723174631342080/8HKQFv9I_normal.jpg",
+    "degentradinglsd": "https://pbs.twimg.com/profile_images/1883554633630744576/er32dCLA_normal.jpg",
+    "leopoldasch": "https://pbs.twimg.com/profile_images/2056235691961614336/HhB3CouO_normal.jpg",
+    "Beth_Kindig": "https://pbs.twimg.com/profile_images/1606046913140101120/ogy7cKEX_normal.jpg",
+    "SemiAnalysis_": "https://pbs.twimg.com/profile_images/1947370460192378882/rA6oRuv-_normal.jpg",
+    "RihardJarc": "https://pbs.twimg.com/profile_images/1251462631363403776/r4lpY-WV_normal.jpg"
+  },
+  "bios": {
+    "aleabitoreddit": "AI/半导体供应链分析师，擅长从产业链底层挖被低估的高赔率个股",
+    "zephyr_z9": "Citrini Research核心成员，擅长半导体全产业链、HBM、CPO、先进封装",
+    "dylan522p": "SemiAnalysis创始人，数据驱动，擅长GPU/数据中心/云厂商资本开支",
+    "KawzInvests": "与Serenity同源，擅长挖AI供应链隐形冠军和中小盘主题股",
+    "degentradinglsd": "前半导体工程师，技术派，擅长从技术路线变化里找投资机会",
+    "leopoldasch": "前OpenAI研究员，百亿基金创始人，擅长AI能源/电力/算力基建瓶颈",
+    "Beth_Kindig": "科技股投资人，有审计实盘，擅长AI/半导体成长股深度分析",
+    "SemiAnalysis_": "半导体研究机构号，硬核产业链调研，擅长算力/制造/供需测算",
+    "RihardJarc": "科技投研博主，擅长AI、云计算、半导体、平台型公司研究"
+  },
+  "base": {
+    "app_token": "<YOUR_APP_TOKEN>",
+    "table_id": "<YOUR_TABLE_ID>",
+    "daily_table_id": "<YOUR_DAILY_TABLE_ID>",
+    "claims_table_id": "<YOUR_CLAIMS_TABLE_ID>"
+  },
+  "push_signals": [
+    "strong_buy",
+    "watch"
+  ]
+}

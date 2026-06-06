@@ -1,0 +1,9 @@
+config.json
+*.log
+seen.json
+avatars.json
+run.lock
+__pycache__/
+*.pyc
+.DS_Store
+evolution_state/
